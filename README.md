@@ -1,4 +1,6 @@
 # projeto-diario
+"Este projeto foi concebido para criar um diário/agenda de anotações imutáveis, acompanhadas da data e hora da publicação."
+
 # Protótipo
 https://www.figma.com/file/c2K6BmlISswi52eZFVm2s3/Untitled?type=design&node-id=0%3A1&mode=design&t=oUXngEFRDrUUIzyN-1
 
