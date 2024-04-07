@@ -1,0 +1,19 @@
+{
+  "name": "projeto-diario",
+  "version": "1.0.0",
+  "description": "\"Este projeto foi concebido para criar um diário/agenda de anotações imutáveis, acompanhadas da data e hora da publicação.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emanuel dos Santos Kanetchny",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "xyz": "^5.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
