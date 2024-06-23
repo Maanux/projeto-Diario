@@ -3,6 +3,8 @@
 
 # Protótipo
 https://www.figma.com/file/c2K6BmlISswi52eZFVm2s3/Untitled?type=design&node-id=0%3A1&mode=design&t=oUXngEFRDrUUIzyN-1
+# GitHub Pages
+https://maanux.github.io/projeto-diario/
 
 #### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
 - [x] ID 01 - Implementa um layout responsivo de uma página web utilizando um Framework CSS, como Bootstrap ou Tailwind, que se adapta adequadamente a diferentes tamanhos de tela e dispositivos.
