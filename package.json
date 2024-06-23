@@ -1,0 +1,16 @@
+{
+  "name": "web2projeto",
+  "version": "1.0.0",
+  "description": "<link\r       href=\"https://fonts.googleapis.com/css2?family=Madimi+One&display=swap\"\r       rel=\"stylesheet\"\r     />\r font-family: \"Madimi One\", sans-serif;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emanuel dos Santos Kanetchny",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {}
+}
