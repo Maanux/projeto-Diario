@@ -32,10 +32,6 @@ font-family: "Roboto Condensed", sans-serif;
 
 ### deixo ou nao com borda no principal
 
-### fazer as "publicacoes " no mesmo esquema que os botoes como o esquema de cores
 
-### usar api viacep
-
-### pq a porra do form ta bugando o js
 
 ### usar google icons
